@@ -1,0 +1,18 @@
+#grid-container{
+    display: flex;
+    justify-content: center;
+}
+
+.column{
+    flex : 0;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+.block{
+    height: 20px;
+    width: 20px;
+    color: lightgray;
+    border: 1px solid gray;
+}
