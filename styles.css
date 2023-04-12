@@ -6,6 +6,16 @@ body {
     gap: 50px;
 }
 
+#mode-buttons{
+    display: flex;
+    gap: 30px;
+}
+
+#settings-buttons{
+    display: flex;
+    gap: 30px;
+}
+
 #grid-container {
     display: flex;
     justify-content: center;
